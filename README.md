@@ -23,7 +23,7 @@ Total Cost: 6
 
 Another maze example - 
 
-[maze4.txt](https://github.com/JonathanAlexMasc/Maze-Solver/files/9844895/maze4.txt)
+<a href="https://drive.google.com/file/d/1Gb9pnA8EnKBR74rclH_hnopY5Dgd5uSt/view" target="_blank"> Another Maze File </a>
 
 ![image](https://user-images.githubusercontent.com/94260151/197353538-19a8884b-1bfd-4abd-9e52-7ea9079a17f4.png)
 
